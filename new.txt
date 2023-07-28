@@ -1,0 +1,21 @@
+Git Command
+
+1) username create = git config --global user.name "enter username"
+
+2) Email create = git config --global user.email "enter emil"
+
+*) Edit username or Email id = git config --gobal --edit
+
+3) Permission to work on this folder = git init
+
+4) status = git status
+
+5) Add file in git repo = git add file name
+
+6) commit file in to git repo = git commit -m "message" 
+
+7) Push file to git-hub = git push
+
+8) Create branches = git branch "barnch name"
+
+
